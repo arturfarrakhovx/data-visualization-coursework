@@ -32,7 +32,7 @@ Perform a network analysis of the Prague Integrated Transport (PID) system using
 - Temporal analysis revealed distinct patterns: significantly lower traffic on weekends and standard rush hour peaks during workdays.
 - The graph layout matched the actual physical infrastructure of Prague.
 
-![Network Visualization](02_public-transport-network-analysis/network_map.png)
+![Network Visualization](network_map.png)
 
 ## Files
 - `public_transport_network_analysis.ipynb` – Jupyter notebook with full solution.  
