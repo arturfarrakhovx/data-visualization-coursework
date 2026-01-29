@@ -1,11 +1,11 @@
 # Assignment 1 – Exploratory Data Analysis
 
-## 📘 Task  
+## Task  
 Perform an **exploratory data analysis** on animal shelter datasets from Austin, Texas.  
 Data included animal **intakes**, **outcomes**, and optionally **locations** (stray animals data).  
 The task required data preparation, descriptive statistics, and answering both given and own questions using **visualization and interpretation**.  
 
-## 🔬 Approach  
+## Approach  
 - **Data Preparation:**  
   - Loaded and explored datasets (`intakes.csv`, `outcomes.csv`, `locations.csv`)  
   - Cleaned data: handled missing values, removed duplicates, dropped redundant columns  
@@ -27,15 +27,13 @@ The task required data preparation, descriptive statistics, and answering both g
   - Age distribution by Animal Type (from locations dataset)  
   - Shelter vs Volunteers (At AAC) → distribution of animals’ placement  
 
-## 📊 Results  
+## Results  
 - Cleaned datasets enabled meaningful statistical summaries and visualizations  
 - Found clear **age effect on adoption probability**  
 - Identified **seasonal intake patterns**  
 - Confirmed **dependence between intake type and outcome type**  
 - Own analyses provided deeper insight into age/type structure  
 
----
-
-## 📂 Files  
+## Files  
 - `exploratory_data_analysis.ipynb` – Jupyter notebook with full solution  
 - `intakes.csv`, `outcomes.csv`, `locations.csv` – datasets used
